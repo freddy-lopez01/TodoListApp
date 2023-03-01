@@ -1,4 +1,3 @@
-
 # Minimal web-based todo list
 
 This is an example that demonstrates how to loop through listed HTML elements with JQuery, and 
